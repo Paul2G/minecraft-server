@@ -1,7 +1,7 @@
 services:
   minecraft-server:
     container_name: minecraft
-    image: itzg/minecraft-server:java8-jdk
+    image: itzg/minecraft-server:java11
     tty: true
     stdin_open: true
     ports:
@@ -11,6 +11,7 @@ services:
       TYPE: FORGE
       VERSION: 1.16.5
       FORGE_VERSION: "36.2.34"
+      MEMORY: 12G
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
