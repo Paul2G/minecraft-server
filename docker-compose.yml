@@ -9,6 +9,7 @@ services:
     environment:
       EULA: "TRUE"
       VERSION: 1.16.5
+      TYPE: FORGE
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
