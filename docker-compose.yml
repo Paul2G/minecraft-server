@@ -1,5 +1,6 @@
 services:
-  mc:
+  minecraft-server:
+    container_name: minecraft
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
