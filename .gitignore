@@ -1,5 +1,8 @@
 data/*
 
-!data/*.json
-!data/*.properties
-!data/*.text
+!data/banned-ips.json
+!data/banned-players.json
+!data/ops.json
+
+!data/server.properties
+!data/eula.text
