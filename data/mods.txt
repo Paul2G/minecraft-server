@@ -1,0 +1,2 @@
+#Read the docs https://docker-minecraft-server.readthedocs.io/en/latest/mods-and-plugins/#modplugin-url-listing-file
+https://cdn.modrinth.com/data/Fb4jn8m6/versions/rK4GkUX6/FallingTree-1.16.5-2.11.7.jar

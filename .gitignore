@@ -5,4 +5,5 @@ data/*
 !data/ops.json
 
 !data/server.properties
+!data/mods.txt
 !data/eula.text
