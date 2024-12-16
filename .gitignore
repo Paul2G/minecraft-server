@@ -1,4 +1,2 @@
 data/*
-
-!data/server.properties
-!data/mods.txt
+.env
