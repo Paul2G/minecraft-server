@@ -1,9 +1,4 @@
 data/*
 
-!data/banned-ips.json
-!data/banned-players.json
-!data/ops.json
-
 !data/server.properties
 !data/mods.txt
-!data/eula.text
