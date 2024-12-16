@@ -12,8 +12,12 @@ services:
       MEMORY: 6G
       TYPE: FORGE
       FORGE_VERSION: "36.2.34"
-      MODS_FILE: /data/mods.txt
+      MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
+      OVERRIDE_ICON: "TRUE"
+    env_file:
+      - .env.server.properties
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
+      - ./extras:/extras
