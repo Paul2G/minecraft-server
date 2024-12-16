@@ -13,7 +13,7 @@ services:
       TYPE: FORGE
       FORGE_VERSION: "36.2.34"
       MODS_FILE: /data/mods.txt
-      REMOVE_OLD_MODS: TRUE
+      REMOVE_OLD_MODS: "TRUE"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
