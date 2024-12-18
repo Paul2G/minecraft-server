@@ -1,17 +1,16 @@
 services:
   minecraft-server:
     container_name: minecraft
-    image: itzg/minecraft-server:java11
+    image: itzg/minecraft-server:java21
     tty: true
     stdin_open: true
     ports:
       - "25565:25565"
     environment:
       EULA: "TRUE"
-      VERSION: 1.16.5
+      VERSION: 1.20.1
       MEMORY: 6G
       TYPE: FORGE
-      FORGE_VERSION: "36.2.34"
       MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
       OVERRIDE_ICON: "TRUE"
