@@ -1,17 +1,42 @@
 ## Read the docs https://docker-minecraft-server.readthedocs.io/en/latest/mods-and-plugins/#modplugin-url-listing-file
 
+## Fabric mods support
+# https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar
+# https://cdn.modrinth.com/data/Aqlf1Shp/versions/2Jm6cdbX/fabric-api-0.92.2%2B1.11.9%2B1.20.1.jar
+# https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar
+
+## Bloques o items nuevos
+https://cdn.modrinth.com/data/gxSiDoVF/versions/lc7khs4k/enderchests-forge-1.20.1-1.3.jar
+https://cdn.modrinth.com/data/oX7uP2kS/versions/OArfEEsX/shetiphiancore-forge-1.20.1-1.4.jar
+https://cdn.modrinth.com/data/TEzJJY7H/versions/6PB1ns19/weeping_angels-46.1.5-forge.jar
+https://cdn.modrinth.com/data/bRAPbNyF/versions/qV4B4EMI/veinmining-forge-1.5.0%2B1.20.1.jar
+https://cdn.modrinth.com/data/RYtXKJPr/versions/YuF7RHRe/gravestone-forge-1.20.1-1.0.24.jar
+https://cdn.modrinth.com/data/n2de3t2z/versions/BlgpMWjV/ironchests-5.0.2-forge.jar
+https://cdn.modrinth.com/data/yPlaLxD1/versions/fGEswUMR/ironfurnaces-1.20.1-4.1.6.jar
+
 ## Creacion
 https://cdn.modrinth.com/data/LNytGWDc/versions/6R069CcK/create-1.20.1-0.5.1.j.jar
+https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar
+https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar
+
+## Utilidades
+https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar
+https://cdn.modrinth.com/data/Q1ZgOTni/versions/5bMeNn4T/catloaf-1.1.0-1.20.x-FORGE.jar
+https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar
+https://cdn.modrinth.com/data/twkfQtEc/versions/crM5zLbk/moonlight-1.20-2.13.38-forge.jar
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/RBA7lJaW/geckolib-forge-1.20.1-4.4.9.jar
 
 ## Mundo
 https://cdn.modrinth.com/data/9IxCUYAP/versions/qWwQ1IQq/HopoBetterMineshaft-%5B1.20-1.20.1%5D-1.1.8.jar
 https://cdn.modrinth.com/data/YhmgMVyu/versions/X1JOPxMW/aether-1.20.1-1.5.1-neoforge.jar
-https://cdn.modrinth.com/data/iAwGa4r9/versions/iXmuEq0a/Epic%20Dungeons-0.1.04-Forge-1.21.jar
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/5468648
+# https://cdn.modrinth.com/data/iAwGa4r9/versions/iXmuEq0a/Epic%20Dungeons-0.1.04-Forge-1.21.jar
+https://cdn.modrinth.com/data/xSfkjdDu/versions/BuweXqBI/Beyond-Earth-1.20.1-7.0-PRERELEASE.jar
 
 ## Enemigos
-https://www.curseforge.com/minecraft/mc-mods/born-in-chaos/download/5897851
+https://mcreator.net/system/files/modifications/born_in_chaos_%5BForge%5D1.20.1_1.4.jar
 
+# Combate
+https://cdn.modrinth.com/data/7jOxn6qJ/versions/iP9fAEwX/mahoutsukai-1.20.1-v1.34.74.jar
 ## Solo en Frabic, RPG Series
 # https://cdn.modrinth.com/data/NkGaQMDA/versions/hMGphtUf/wizards-1.3.0%2B1.20.1.jar
 # https://cdn.modrinth.com/data/QgooUXAJ/versions/SOJ4DVD4/archers-1.2.5%2B1.20.1.jar
