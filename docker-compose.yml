@@ -11,7 +11,6 @@ services:
       VERSION: 1.20.1
       MEMORY: 12G
       TYPE: FORGE
-      MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "TRUE"
       OVERRIDE_ICON: "TRUE"
     env_file:
@@ -20,3 +19,9 @@ services:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
       - ./extras:/extras
+  mods-downloader:
+    build: ./mods-downloader
+    container_name: mods-downloader
+    ports:
+      - "80:3000"
+    restart: always

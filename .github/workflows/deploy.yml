@@ -26,6 +26,14 @@ jobs:
             git pull &&
             echo 'Successfully pulled repository.'
           "
+      - name: Download mods
+        run: |
+          ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "
+            cd ${{ secrets.WORK_DIR }} &&
+            grep -o '^http[s]\?://[^"]*' extras/mods.txt | xargs -n 1 wget -P data/mods &&
+            zip modpack.zip data/mods/*.jar  &&
+            mv modpack.zip mods-downloader/public
+          "
       - name: Deploy service
         run: |
           ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "
