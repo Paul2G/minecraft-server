@@ -1,67 +1,97 @@
-| Mod                        | Tipo                                                  | Loader                                     | Version                                         | Status         | Notas                        |
-| -------------------------- | ----------------------------------------------------- | ------------------------------------------ | ----------------------------------------------- | -------------- | ---------------------------- |
-| ~~True ending~~            | ![Hostiles]                                           | ![Datapack] ![Fabric] ![Forge]             | ![1.19] ![1.20] ![1.21]                         | ![Remplazable] | Por Ender trigon             |
-| Ender trigon               | ![Hostiles]                                           | ![Forge] ![Neoforge]                       | ![1.19] ![1.20]                                 |
-| Mowzie mobs                | ![Hostiles]                                           | ![Forge]                                   | ![1.17] ![1.18] ![1.19] ![1.20]                 |
-| Born in chaos              | ![Hostiles] ![Equipamiento]                           | ![Forge]                                   | ![1.18] ![1.19] ![1.20]                         |
-| Alex mobs                  | ![Hostiles] ![Pasivos]                                | ![Forge] ![Neoforge]                       | ![1.20]                                         |
-| Alex caves                 | ![Generacion] ![Hostiles]                             | ![Forge] ![Neoforge]                       | ![1.20]                                         |
-| ~~Ecologics~~              | ![Generacion] ![Pasivos]                              | ![Fabric] ![Forge]                         | ![1.18] ![1.19]                                 | ![Cancelado]   | Alex mobs                    |
-| Tectonic                   | ![Generacion]                                         | ![Datapack] ![Fabric] ![Neoforge] ![Forge] | ![1.18] ![1.19] ![1.20] ![1.21]                 | ![Tentativo]   | Distancias muy largas??      |
-| Aether                     | ![Estructuras] ![Hostiles] ![Pasivos] ![Equipamiento] | ![Fabric] ![Forge] ![Neoforge]             | ![1.19] ![1.20] ![1.21]                         |
-| Aether: Lost content addon | ![Estructuras] ![Hostiles] ![Pasivos] ![Equipamiento] | ![Forge] ![Neoforge]                       | ![1.19] ![1.20]                                 |                |
-| ~~Better end cities~~      | ![Estructuras]                                        |                                            |                                                 | ![Cancelado]   | Por Nullscape                |
-| Nullscape                  | ![Estructuras]                                        | ![Datapack] ![Fabric] ![Forge] ![Neoforge] | ![1.18] ![1.19] ![1.20] ![1.21]                 |
-| When dungeons arise        | ![Estructuras]                                        | ![Fabric] ![Forge]                         | ![1.16] ![1.17] ![1.18] ![1.19] ![1.20] ![1.21] |
-| Better mineshaft           | ![Estructuras]                                        |
-| ~~Better villages~~        | ![Estructuras]                                        |                                            |                                                 | ![Cancelado]   |                              |
-| CT overhaul villages       | ![Estructuras]                                        | ![Fabric] ![Forge] ![Neoforge]             | ![1.18] ![1.19] ![1.20] ![1.21]                 |                |                              |
-| ~~Luki's Grand Capitals~~  | ![Estructuras]                                        | ![Datapack]![Fabric] ![Forge] ![Neoforge]  | ![1.19] ![1.20] ![1.21]                         | ![Cancelado]   | Por CT Overhaul villages     |
-| Better nether fortress     | ![Estructuras]                                        |
-| Incendium                  | ![Estructuras]                                        |
-| L_Ender 's Cataclysm       | ![Estructuras] ![Hostiles]                            |
-| It takes a pillage         | ![Estructuras]                                        |
-| ~~Epic fight~~             | ![Combate]                                            |                                            |                                                 | ![Tentativo]   | No luce muy minecrafty       |
-| Mahou                      | ![Combate]                                            |
-| Better combat              | ![Combate]                                            | ![Fabric] ![Forge] ![Neoforge]             | ![1.16] ![1.19] ![1.20] ![1.21]                 | ![Tentativo]   | No luce muy minecrafty       |
-| RPG Archers                | ![Combate] ![Equipamiento]                            | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         |
-| RPG Rogues and warriors    | ![Combate] ![Equipamiento]                            | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         |
-| ~~RPG Deaths knights~~     | ![Combate] ![Equipamiento]                            | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         | ![Cancelado]   | Incompatible                 |
-| RPG Paladins               | ![Combate] ![Equipamiento]                            | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         |
-| RPG Wizards                | ![Combate] ![Equipamiento]                            | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         |
-| RPG Jewelry                | ![Equipamiento]                                       | ![Fabric]                                  | ![1.19] ![1.20] ![1.21]                         |
-| Muskets                    | ![Equipamiento]                                       |
-| ~~Photography~~            | ![Funcionales]                                        |                                            |                                                 | ![Cancelado]   |
-| Dummmmmmmt                 | ![Funcionales]                                        |
-| Waystones                  | ![Funcionales]                                        |
-| Sawmill                    | ![Funcionales]                                        |
-| Iron chests                | ![Funcionales]                                        |
-| Gravestone                 | ![Funcionales]                                        |
-| Supplementaries            | ![Decorativos] ![Funcionales]                         |                                            |                                                 | ![Tentativo]   |
-| Diagonal fences            | ![Decorativos]                                        |                                            |                                                 | ![Tentativo]   |
-| Macaw's furnitures         | ![Decorativos]                                        |                                            |                                                 | ![Tentativo]   |
-| Macaw's doors              | ![Decorativos]                                        |                                            |                                                 | ![Tentativo]   |
-| Macaw's windows            | ![Decorativos]                                        |                                            |                                                 | ![Tentativo]   | Quieren decorativos?         |
-| Easy anvils                | ![Addons]                                             |
-| ~~Do a barrel roll~~       | ![Addons]                                             |                                            |                                                 | ![Cancelado]   | Molesto                      |
-| Better totem of undying    | ![Addons]                                             |                                            |                                                 | ![Tentativo]   | Muy facil?                   |
-| ~~Villager names~~         | ![Addons]                                             |                                            |                                                 | ![Remplazable] | Por MCA                      |
-| Comes alive                | ![Addons]                                             |                                            |                                                 | ![Tentativo]   | Gustos                       |
-| Butcher                    | ![Addons]                                             |
-| ~~Vein mining~~            | ![Addons]                                             |                                            |                                                 | ![Cancelado]   |
-| Project MMO                | ![Addons]                                             |                                            |                                                 | ![Tentativo]   | Muy complejo?                |
-| More end cities            | ![Addons]                                             |                                            |                                                 | ![Tentativo]   | Muy complejo?                |
-| End remastered             | ![Addons]                                             |                                            |                                                 | ![Tentativo]   | Muy complejo?                |
-| JEI                        | ![Personales]                                         |
-| Jade                       | ![Personales]                                         |
-| Inventory profiles next    | ![Personales]                                         |
-| Mouse tweaks               | ![Personales]                                         |
-| Minimap                    | ![Personales]                                         |
-| Worldmap                   | ![Personales]                                         |
-| Shulker Box Tooltip        | ![Personales]                                         |
-| Ambient sounds             | ![Personales] ![Sonido]                               |
-| Sound physics remastered   | ![Personales] ![Sonido]                               |
-| ~~Immersive Sounds~~       | ![Personales] ![Sonido]                               |                                            |                                                 | ![Cancelado]   | Por Sound physics remastered |
+| Mod                             | Tipo                                                  | Status       | Notas                                                                                  |
+| ------------------------------- | ----------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------- |
+| ~~True ending~~                 | ![Hostiles]                                           | ![Cancelado] | Por Ender trigon                                                                       |
+| Ender trigon                    | ![Hostiles]                                           | ![Aceptado]  |
+| Mowzie mobs                     | ![Hostiles]                                           | ![Aceptado]  |
+| Born in chaos                   | ![Hostiles] ![Equipamiento]                           | ![Aceptado]  |
+| Alex mobs                       | ![Hostiles] ![Pasivos]                                | ![Aceptado]  |
+| Mobs of mythology               | ![Hostiles] ![Generacion]                             | ![Aceptado]  |
+| Alex caves                      | ![Generacion] ![Hostiles]                             | ![Aceptado]  |
+| ~~Ecologics~~                   | ![Generacion] ![Pasivos]                              | ![Cancelado] | No necesario por Alex mobs                                                             |
+| Tectonic                        | ![Generacion]                                         | ![Aceptado]  | Se ve chido                                                                            |
+| Terralith                       | ![Generacion]                                         | ![Aceptado]  | Combina bien con tectonics                                                             |
+| ~~Nullscape~~                   | ![Generacion]                                         | ![Cancelado] | Tas mas chido Better End                                                               |
+| Better end                      | ![Generacion] ![Equipamiento]                         | ![Aceptado]  |
+| Aether                          | ![Estructuras] ![Hostiles] ![Pasivos] ![Equipamiento] | ![Aceptado]  |
+| Aether: Lost content addon      | ![Estructuras] ![Hostiles] ![Pasivos] ![Equipamiento] | ![Aceptado]  |
+| ~~Better end cities~~           | ![Estructuras]                                        | ![Cancelado] | Por Nullscape                                                                          |
+| When dungeons arise             | ![Estructuras]                                        | ![Aceptado]  | Al publico le gusto                                                                    |
+| ~~Hopo's Better mineshaft~~     | ![Estructuras]                                        | ![Cancelado] | Mejor el de Yung                                                                       |
+| ~~Better villages~~             | ![Estructuras]                                        | ![Cancelado] | Ta mas chido el CTOV                                                                   |
+| ~~Luki's Grand Capitals~~       | ![Estructuras]                                        | ![Cancelado] | Por CT Overhaul villages                                                               |
+| CT overhaul villages            | ![Estructuras]                                        | ![Aceptado]  | Ta cool                                                                                |
+| Yung's Better Nether Fortresses | ![Estructuras]                                        | ![Aceptado]  | Ta cabron                                                                              |
+| Yung's Better Strongholds       | ![Estructuras]                                        | ![Aceptado]  |
+| Yung's Better Dungeons          | ![Estructuras]                                        | ![Aceptado]  |
+| Yung's Better Mineshafts        | ![Estructuras]                                        | ![Aceptado]  |
+| Yung's Better Ocean Monuments   | ![Estructuras]                                        | ![Aceptado]  |
+| Yung's Better Jungle Temples    | ![Estructuras]                                        | ![Aceptado]  |
+| Yung's Better Desert Temples    | ![Estructuras]                                        | ![Aceptado]  |
+| Incendium                       | ![Estructuras] ![Generacion]                          | ![Aceptado]  |
+| L_Ender 's Cataclysm            | ![Estructuras] ![Hostiles] ![Equipamiento]            | ![Tentativo] | Generacion de estructuras problematica, pero se ve bien. Requiere Better combat compat |
+| It takes a pillage              | ![Estructuras]                                        | ![Aceptado]  | Ta chida la idea                                                                       |
+| ~~Epic fight~~                  | ![Combate]                                            | ![Cancelado] | No luce muy minecrafty, y es complejo                                                  |
+| Mahou                           | ![Combate]                                            | ![Aceptado]  | Nos gusta la magia                                                                     |
+| Better combat                   | ![Combate]                                            | ![Aceptado]  | Jala bien                                                                              |
+| RPG Archers                     | ![Combate] ![Equipamiento]                            | ![Aceptado]  |
+| RPG Rogues and warriors         | ![Combate] ![Equipamiento]                            | ![Aceptado]  |
+| RPG Paladins                    | ![Combate] ![Equipamiento]                            | ![Aceptado]  |
+| RPG Wizards                     | ![Combate] ![Equipamiento]                            | ![Aceptado]  |
+| RPG Jewelry                     | ![Equipamiento]                                       | ![Aceptado]  |
+| Simply swords                   | ![Equipamiento]                                       | ![Tentativo] | El crafteo de las lanzas se sobrescribe, lo demas excelente                            |
+| Muskets                         | ![Equipamiento]                                       | ![Aceptado]  | No esta rotote                                                                         |
+| ~~Photography~~                 | ![Funcionales]                                        | ![Cancelado] | XD                                                                                     |
+| Dummy                           | ![Funcionales]                                        | ![Aceptado]  | Siempre util                                                                           |
+| Waystones                       | ![Funcionales]                                        | ![Aceptado]  | Tira paro                                                                              |
+| Sawmill                         | ![Funcionales]                                        | ![Aceptado]  | Si es compatible con otras maderas                                                     |
+| Iron chests                     | ![Funcionales]                                        | ![Aceptado]  | Ya acostumbrados                                                                       |
+| Gravestone                      | ![Funcionales]                                        | ![Aceptado]  | Ya acostumbrados                                                                       |
+| Supplementaries                 | ![Decorativos] ![Funcionales]                         | ![Aceptado]  |
+| Diagonal fences                 | ![Decorativos]                                        | ![Aceptado]  |
+| Macaw's furniture               | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's fences and walls        | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's doors                   | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's roofs                   | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's bridges                 | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's trapdoors               | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's light and lamps         | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's paths and pavings       | ![Decorativos]                                        | ![Tentativo] |
+| Macaw's windows                 | ![Decorativos]                                        | ![Tentativo] | Quieren decorativos?                                                                   |
+| Macaw's stairs                  | ![Decorativos]                                        | ![Tentativo] | Quieren decorativos?                                                                   |
+| Clumps                          | ![Rendimiento]                                        | ![Aceptado]  |                                                                                        |
+| Easy anvils                     | ![Addons]                                             | ![Aceptado]  |
+| Headshot respawn                | ![Addons]                                             | ![Aceptado]  | Ta cool dar y recibir headshots                                                        |
+| ~~Do a barrel roll~~            | ![Addons]                                             | ![Cancelado] | Molesto                                                                                |
+| Better totem of undying         | ![Addons]                                             | ![Tentativo] | Muy facil?                                                                             |
+| Open parties and claims         | ![Addons]                                             | ![Tentativo] | Solo si el servidor sera algo mas grande                                               |
+| ~~Comes alive~~                 | ![Addons]                                             | ![Cancelado] | Gustos                                                                                 |
+| Villager names                  | ![Addons]                                             | ![Aceptado]  | Coqueto                                                                                |
+| Guard villagers                 | ![Addons]                                             | ![Aceptado]  | Coqueto                                                                                |
+| ~~Butcher~~                     | ![Addons]                                             | ![Cancelado] |
+| ~~Vein mining~~                 | ![Addons]                                             | ![Cancelado] |
+| Project MMO                     | ![Addons]                                             | ![Aceptado]  | Ta cool                                                                                |
+| ~~More end cities~~             | ![Addons]                                             | ![Cancelado] | No compatible                                                                          |
+| End remastered                  | ![Addons]                                             | ![Aceptado]  | Ta cool, explorar antes de ir al end                                                   |
+
+## Personales
+
+| Mod                      | Tipo      | Status       | Notas                        |
+| ------------------------ | --------- | ------------ | ---------------------------- |
+| JEI                      |           | ![Aceptado]  |
+| Jade                     |           | ![Aceptado]  |
+| Inventory profiles next  |           | ![Aceptado]  |
+| Switch tools             |           | ![Aceptado]  |
+| Mouse tweaks             |           | ![Tentativo] |
+| Xaero's Minimap          |           | ![Aceptado]  |
+| Xaero's Worldmap         |           | ![Aceptado]  |
+| Shulker Box Tooltip      |           | ![Tentativo] |
+| Damage numbers           |           | ![Aceptado]  |
+| Better F1                |
+| Better F3                |
+| First-person model       |
+| ~~Ambient sounds~~       | ![Sonido] | ![Cancelado] |
+| Sound physics remastered | ![Sonido] | ![Aceptado]  |
+| ~~Immersive Sounds~~     | ![Sonido] | ![Cancelado] | Por Sound physics remastered |
 
 <!--Tipos-->
 
@@ -76,6 +106,7 @@
 [Addons]: https://img.shields.io/badge/Mejoras-008080
 [Personales]: https://img.shields.io/badge/Personales-800080
 [Sonido]: https://img.shields.io/badge/Sound-4
+[Rendimiento]: https://img.shields.io/badge/Rendimiento-aaaaaa
 
 <!--Loaders-->
 
@@ -96,7 +127,7 @@
 <!--Status-->
 
 [Tentativo]: https://img.shields.io/badge/Tentativo-ffe72e
-[Confirmado]: https://img.shields.io/badge/Confirmado-00a323
+[Aceptado]: https://img.shields.io/badge/Aceptado-00a323
 [Remplazable]: https://img.shields.io/badge/Remplazable-858585
 [Conflicto]: https://img.shields.io/badge/Conflicto-0000dd
 [Cancelado]: https://img.shields.io/badge/Cancelado-d61c1c
